@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vannes2.github.io/hosting/",
+  "homepage": "https://vannes2.github.io/Terakhir/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
